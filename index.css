@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+#title{
+    text-align: center;
+}
+#turnAlert{
+  text-align: right;
+
+}
+#myTable{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
